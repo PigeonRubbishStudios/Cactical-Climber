@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cacticalclimber.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Pigeon Rubbish\\Documents\\Capstone\\Unity\\Cactical Climber\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Cactical Climber [Testing]"
+        }
+      }
+    }
+  ]
+}
