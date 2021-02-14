@@ -1,9 +1,9 @@
 ![Preview Image](cc-slideshow.jpg)
  
-Teeter-Totter Trouble is a survival mobile game that utilizes accelerometers (tilt controls) in order to control a paper ball on a teeter-totter, while avoiding paper weights and the looming abyss below.
+Cactical Climber is a VR climbing game in which you, a cactus, must use your spurs to climb over, up, and onto objects in order to reach the flower pot under the heat lamp before you freeze over!
 
 © 2020 Pigeon Rubbish Studios  <br />
 Coding By Kyle Bolinger  <br />
 Artwork By Kyle Bolinger  <br />
-Background Artwork By Cody Hammers  <br />
+3D Modeling By Kyle Bolinger <br />
 Music By Kyle Bolinger  <br />
